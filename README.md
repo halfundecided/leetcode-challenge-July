@@ -7,3 +7,4 @@
 - [July 3, 2020: Prison cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days/)
 - [July 4, 2020: Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)
 - [July 5, 2020: Hamming Distance](https://leetcode.com/problems/hamming-distance/)
+- [july 6, 2020: Island Perimeter](https://leetcode.com/problems/island-perimeter/)
