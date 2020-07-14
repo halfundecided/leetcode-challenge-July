@@ -12,3 +12,6 @@
 - [July 8, 2020: 3Sum](https://leetcode.com/problems/3sum/)
 - [July 9, 2020: Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/)
 - [July 10, 2020: Flatten Binary Tree to Linked List]()
+- [July 11, 2020: Subsets]()
+- [July 12, 2020: Reverse Bits]()
+- [July 13, 2020: Same Tree](https://leetcode.com/problems/same-tree/)
