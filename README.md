@@ -21,3 +21,7 @@
 - [July 17, 2020: Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
 - [July 18, 2020: Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)
 - [July 19, 2020: Add Binary](https://leetcode.com/problems/add-binary/)
+- [July 20, 2020: Remove Linked List Elements]()
+- [July 21, 2020: Word Search]()
+- [July 22, 2020: Binary Tree Zigzag Level Order Traversal]()
+- [July 23, 2020: Single Number III]()
